@@ -1,0 +1,60 @@
+{
+  "accounts": [
+    {
+      "id": "5541",
+      "ownerId": "1709",
+      "currency": "USD",
+      "balance": 1200
+    },
+    {
+      "id": "686b",
+      "ownerId": "163",
+      "currency": "USD",
+      "balance": 1200
+    },
+    {
+      "id": "9899",
+      "ownerId": "17023",
+      "currency": "USD",
+      "balance": 2233
+    },
+    {
+      "id": "204a",
+      "ownerId": "1705",
+      "currency": "USD",
+      "balance": 2300
+    }
+  ],
+  "transfers": [
+    {
+      "id": "5ca4",
+      "fromOwnerId": "1520",
+      "toOwnerId": "1320",
+      "amount": 400
+    },
+    {
+      "id": "6ca0",
+      "fromOwnerId": "167",
+      "toOwnerId": "1709",
+      "amount": 1000
+    },
+    {
+      "id": "cdd5",
+      "fromOwnerId": "167",
+      "toOwnerId": "1709",
+      "amount": 1000
+    },
+    {
+      "id": "4386",
+      "fromOwnerId": "1709",
+      "toOwnerId": "167",
+      "amount": 100
+    },
+    {
+      "id": "93cb",
+      "fromOwnerId": "163",
+      "toOwnerId": "1709",
+      "amount": 100
+    }
+  ]
+}
